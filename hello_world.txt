@@ -1,0 +1,2 @@
+Testing git on macOS
+Testing git add.
